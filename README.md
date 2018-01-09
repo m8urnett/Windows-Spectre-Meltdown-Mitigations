@@ -31,7 +31,8 @@ Also, there is much conflicting information out and it is difficult to verify so
 1. Does the Windows use reptoline with LFENCE when SMEP enabled?
 
 
-References:
+This information was gleaned from many sources:
+
 https://googleprojectzero.blogspot.co.uk/2018/01/reading-privileged-memory-with-side.html
 
 https://security.googleblog.com/2018/01/more-details-about-mitigations-for-cpu_4.html
