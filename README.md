@@ -14,7 +14,7 @@ Also, there is much conflicting information out and it is difficult to verify so
 
 1. VBA doesn't use JIT so it wouldn't need to be patched, is that correct?
 
-5. What do all of these mean:
+1. What do all of these mean:
 
 * btiHardwarePresent - Microcode updated?
 * btiWindowsSupportPresent - Patch installed?
@@ -28,5 +28,5 @@ Also, there is much conflicting information out and it is difficult to verify so
 * kvaShadowPcidEnabled - ?        
 * KvaShadowInvpcid - CPU Support for INVPCID?
 
-6. Does the Windows use reptoline with LFENCE when SMEP enabled?
+1. Does the Windows use reptoline with LFENCE when SMEP enabled?
 
