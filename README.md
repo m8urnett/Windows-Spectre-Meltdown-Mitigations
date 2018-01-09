@@ -14,17 +14,17 @@ Also, there is much conflicting information out and it is difficult to verify so
 
 5. What do all of these mean:
 
-btiHardwarePresent - Microcode updated?
-btiWindowsSupportPresent - Patch installed?
-btiWindowsSupportEnabled - Reg key set
-btiDisabledBySystemPolicy - ?
-btiDisabledByNoHardwareSupport - ?
-kvaShadowRequired - ?
-kvaShadowPresent - ?          
-kvaShadowEnabled - Reg key set           
-KvaShadowUserGlobal - ? 
-kvaShadowPcidEnabled - ?        
-KvaShadowInvpcid - CPU Support for INVPCID?
+* btiHardwarePresent - Microcode updated?
+* btiWindowsSupportPresent - Patch installed?
+* btiWindowsSupportEnabled - Reg key set
+* btiDisabledBySystemPolicy - ?
+* btiDisabledByNoHardwareSupport - ?
+* kvaShadowRequired - ?
+* kvaShadowPresent - ?          
+* kvaShadowEnabled - Reg key set           
+* KvaShadowUserGlobal - ? 
+* kvaShadowPcidEnabled - ?        
+* KvaShadowInvpcid - CPU Support for INVPCID?
 
 6. Does the Windows use reptoline with LFENCE when SMEP enabled?
 
