@@ -1,6 +1,6 @@
 # Windows Spectre Meltdown Mitigations
 
-Note, these are not final, they are waiting on verification and review. 
+Note, these are not final, they are waiting on verification and review. NOTE: VARIANT 2 CHART IS NOT ACCURATE, WORKING ON UPDATES.
 
 Also, there is much conflicting information out and it is difficult to verify some facts. Here are some remaining questions I have, any feedback would be appreciated:
 
