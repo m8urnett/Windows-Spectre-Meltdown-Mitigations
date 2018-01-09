@@ -73,5 +73,6 @@ https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)
 
 https://en.wikipedia.org/wiki/Speculative_execution
 
+https://patchwork.kernel.org/patch/10078991/
 
 
